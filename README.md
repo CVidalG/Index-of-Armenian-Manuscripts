@@ -8,3 +8,5 @@ Original list has been established by [Association Internationale des Études Ar
 
 * Anush Sargsyan
 * Chahan Vidal-Gorène
+
+## How to contribute
