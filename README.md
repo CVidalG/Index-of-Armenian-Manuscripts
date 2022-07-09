@@ -10,3 +10,5 @@ Original list has been established by [Association Internationale des Études Ar
 * Chahan Vidal-Gorène
 
 ## How to contribute
+
+You have identified a typo or a mistake in the index, or want to add a new resource? Please open a new issue and follow the index structure.
