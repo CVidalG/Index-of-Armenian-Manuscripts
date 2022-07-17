@@ -495,40 +495,40 @@ ITR*87	MS 87	Armenian Patriarchate of Istanbul, Balat	Turkey	Istanbul	https://w3
 	MS 49	Armenian Patriarchate of Istanbul, Kayseri	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125340	HMML	Paper	20th c.	91 pages	21 x 14.5 x 1 cm	Unidentified scientific text	Ms.
 ITU1	MS 1	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125443	HMML	Paper	1836 December 10	20 leaves	35.5 x 25.5 x 1.5 cm	Pataragamatoyts‘	Ms.
 ITU2	MS 2	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125444	HMML	Paper	18th c.	218 leaves	20 x 16 x 5 cm	Rituals	Ms.
-ITU4	MS 4	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125445	HMML	Paper	1666 March 07	303 leaves	19.5 x 13 x 5 cm		Ms.
-ITU5	MS 5	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125446	HMML	Paper	1668 January 20	314 leaves	16.5 x 12 x 6.5 cm		Ms.
-ITU8	MS 8	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125447	HMML	Paper	17th-18th c.	101 leaves	19 x 14.5 x 3.5 cm		Ms.
-ITU12	MS 12	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125448	HMML	Paper	1586	253 leaves	19.5 x 13 x 5 cm		Ms.
+ITU4	MS 4	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125445	HMML	Paper	1666 March 07	303 leaves	19.5 x 13 x 5 cm	Gospel book	Ms.
+ITU5	MS 5	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125446	HMML	Paper	1668 January 20	314 leaves	16.5 x 12 x 6.5 cm	Gospel book	Ms.
+ITU8	MS 8	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125447	HMML	Paper	17th-18th c.	101 leaves	19 x 14.5 x 3.5 cm	Hymns	Ms.
+ITU12	MS 12	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125448	HMML	Paper	1586	253 leaves	19.5 x 13 x 5 cm	Gospel book	Ms.
 ITU14	MS 14	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125449	HMML	Paper	17th c.	148 leaves	25 x 19 x 4 cm	Rituals	Ms.
-ITU15	MS 15	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125450	HMML	Paper	1440 November 7	306 leaves	19.5 x 13 x 5 cm	Liturgical books (Eastern Christian)	Ms.
-ITU16	MS 16	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125451	HMML	Paper	15th c.	283 leaves	24 x 17.5 x 6.5 cm	Liturgical books (Eastern Christian)	Ms.
-ITU17	MS 17	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125452	HMML	Paper	1672 March 01	462 leaves	35 x 26.5 x 11 cm	Liturgical books (Eastern Christian)	Ms.
-ITU18	MS 18	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125453	HMML	Paper	1656 January 20	486 leaves	31.5 x 22.5 x 11.3 cm	Liturgical books (Eastern Christian)	Ms.
-ITU20	MS 20	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125454	HMML	Paper	17th-18th c.	155 leaves	19.5 x 13.5 x 4.7 cm		Ms.
-ITU21	MS 21	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125455	HMML	Paper	17th-18th c.	145 leaves	20 x 13.2 x 4.3 cm		Ms.
-ITU22	MS 22	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125456	HMML	Paper	1364 April 06	271 leaves	18 x 14 x 6 cm		Ms.
-ITU23	MS 23	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125457	HMML	Paper	1633	278 leaves	18 x 13.7 x 6 cm		Ms.
-ITU24	MS 24	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125458	HMML	Paper	1633	322 leaves	22.5 x 16.5 x 7.5 cm		Ms.
+ITU15	MS 15	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125450	HMML	Paper	1440 November 7	306 leaves	19.5 x 13 x 5 cm	Gospel book	Ms.
+ITU16	MS 16	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125451	HMML	Paper	15th c.	283 leaves	24 x 17.5 x 6.5 cm	Gospel book	Ms.
+ITU17	MS 17	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125452	HMML	Paper	1672 March 01	462 leaves	35 x 26.5 x 11 cm	Lectionary	Ms.
+ITU18	MS 18	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125453	HMML	Paper	1656 January 20	486 leaves	31.5 x 22.5 x 11.3 cm	Lectionary	Ms.
+ITU20	MS 20	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125454	HMML	Paper	17th-18th c.	155 leaves	19.5 x 13.5 x 4.7 cm	Gospel book	Ms.
+ITU21	MS 21	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125455	HMML	Paper	17th-18th c.	145 leaves	20 x 13.2 x 4.3 cm	Gospel book	Ms.
+ITU22	MS 22	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125456	HMML	Paper	1364 April 06	271 leaves	18 x 14 x 6 cm	Gospel book	Ms.
+ITU23	MS 23	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125457	HMML	Paper	1633	278 leaves	18 x 13.7 x 6 cm	Gospel book	Ms.
+ITU24	MS 24	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125458	HMML	Paper	1633	322 leaves	22.5 x 16.5 x 7.5 cm	Gospel book	Ms.
 ITU25	MS 25	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125459	HMML	Paper	1411 June 25	136 leaves	22 x 16 x 4 cm	Rituals	Ms.
 ITU26	MS 26	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125460	HMML	Paper	1572	219 leaves	18.5 x 13.5 x 5.7 cm	Rituals	Ms.
 ITU27	MS 27	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125461	HMML	Paper	17th c.	199 leaves	18.3 x 14.5 x 5.4 cm	Rituals	Ms.
-ITU28	MS 28	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125462	HMML	Paper	17th c.	309 leaves	21.7 x 14 x 7.5 cm		Ms.
-ITU29	MS 29	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125463	HMML	Paper	17th-18th c.	434 leaves	18.7 x 14 x 9.7 cm		Ms.
-ITU30	MS 30	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125464	HMML	Paper	18th c.	501 leaves	42 x 28.5 x 10.5 cm	Liturgical books (Eastern Christian)	Ms.
-ITU31	MS 31	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125465	HMML	Paper	1718	556 leaves	45.2 x 31 x 13.8 cm	Liturgical books (Eastern Christian)	Ms.
-ITU32	MS 32	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125466	HMML	Paper	1625	520 leaves	41.5 x 28.5 x 10.3 cm	Liturgical books (Eastern Christian)	Ms.
-ITU33	MS 33	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125467	HMML	Paper	1674 September 08	509 leaves	41.8 x 29 x 10.7 cm	Liturgical books (Eastern Christian)	Ms.
-ITU34	MS 34	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125468	HMML	Paper	17th-18th c.	100 pages	40.7 x 29 x 11.1 cm	Liturgical books (Eastern Christian)	Ms.
-ITU36	MS 36	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125469	HMML	Paper	17th-18th c.	470 leaves	39.5 x 28 x 11.5 cm	Liturgical books (Eastern Christian)	Ms.
+ITU28	MS 28	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125462	HMML	Paper	17th c.	309 leaves	21.7 x 14 x 7.5 cm	Gospel book	Ms.
+ITU29	MS 29	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125463	HMML	Paper	17th-18th c.	434 leaves	18.7 x 14 x 9.7 cm	Hymns	Ms.
+ITU30	MS 30	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125464	HMML	Paper	18th c.	501 leaves	42 x 28.5 x 10.5 cm	Hymns	Ms.
+ITU31	MS 31	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125465	HMML	Paper	1718	556 leaves	45.2 x 31 x 13.8 cm	Yaysmawurk‘	Ms.
+ITU32	MS 32	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125466	HMML	Paper	1625	520 leaves	41.5 x 28.5 x 10.3 cm	Yaysmawurk‘	Ms.
+ITU33	MS 33	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125467	HMML	Paper	1674 September 08	509 leaves	41.8 x 29 x 10.7 cm	Yaysmawurk‘	Ms.
+ITU34	MS 34	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125468	HMML	Paper	17th-18th c.	100 pages	40.7 x 29 x 11.1 cm	Yaysmawurk‘	Ms.
+ITU36	MS 36	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125469	HMML	Paper	17th-18th c.	470 leaves	39.5 x 28 x 11.5 cm	Yaysmawurk‘	Ms.
 ITU37	MS 37	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125470	HMML	Paper	1568 May 01	117 leaves	15.5 x 11 x 3.3 cm	Rituals	Ms.
-ITU38	MS 38	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125471	HMML	Paper	17th-18th c.	355 leaves	9 x 6.5 x 4 cm		Ms.
-ITU39	MS 39	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125472	HMML	Paper	1676 June 28	16 leaves	28 x 21 x 0.8 cm		Ms.
-ITU40	MS 40	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125473	HMML	Paper	1663	21 leaves	23.5 x 18 x 1 cm		Ms.
-ITU43	MS 43	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125474	HMML	Paper	17th c.	394 leaves	24.5 x 18 x 9.5 cm		Ms.
-ITU46	MS 46	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125475	HMML	Paper	1454	308 leaves	25 x 17 x 7 cm		Ms.
+ITU38	MS 38	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125471	HMML	Paper	17th-18th c.	355 leaves	9 x 6.5 x 4 cm	Gospel book	Ms.
+ITU39	MS 39	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125472	HMML	Paper	1676 June 28	16 leaves	28 x 21 x 0.8 cm	Pataragamatoyts‘	Ms.
+ITU40	MS 40	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125473	HMML	Paper	1663	21 leaves	23.5 x 18 x 1 cm	Pataragamatoyts‘	Ms.
+ITU43	MS 43	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125474	HMML	Paper	17th c.	394 leaves	24.5 x 18 x 9.5 cm	Poems	Ms.
+ITU46	MS 46	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125475	HMML	Paper	1454	308 leaves	25 x 17 x 7 cm	Gospel book	Ms.
 ITU47	MS 47	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125476	HMML	Paper	17th c.	334 leaves	27.3 x 20.6 x 8 cm	Prayer books	Ms.
-ITU54	MS 54	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125477	HMML	Paper	17th c.	156 leaves	14 x 10 x 2 cm	Liturgical books (Eastern Christian)	Ms.
-ITU61	MS 61	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125478	HMML	Paper	1672	323 leaves	17.2 x 13 x 6.8 cm		Ms.
+ITU54	MS 54	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125477	HMML	Paper	17th c.	156 leaves	14 x 10 x 2 cm	Tonats‘oyts‘	Ms.
+ITU61	MS 61	Armenian Patriarchate of Istanbul, Galata	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125478	HMML	Paper	1672	323 leaves	17.2 x 13 x 6.8 cm	Gospel book	Ms.
 ITT	MS A	Armenian Patriarchate of Istanbul, Azgayin Matenadaran	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125672	HMML	Paper	1680 February 06	956 pages	43.3 x 29.5 x 10 cm	Liturgical books (Eastern Christian)	Ms.
 ITT	MS B	Armenian Patriarchate of Istanbul, Azgayin Matenadaran	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125673	HMML	Paper	1709 October	980 pages	40.6 x 26.2 x 11 cm	Liturgical books (Eastern Christian)	Ms.
 ITT	MS 1	Armenian Patriarchate of Istanbul, Azgayin Matenadaran	Turkey	Istanbul	https://w3id.org/vhmml/readingRoom/view/125674	HMML	Paper	1733		40 x 22.5 x 26.5 cm		Ms.
