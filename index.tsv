@@ -57,7 +57,7 @@ P294	Ms 294	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.f
 P334	Ms 334	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52517727p	Gallica	Paper	1697-1760	184 folios	16,0 x 20,5 cm	Recueil	Ms.
 P338	Ms 338	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b525048374	Gallica	Parchment	1670	86 folios	19 x 14 cm	Eremia Çelebi Kömürcüyan (1635-1695). Livre d'histoire	Ms.
 P348	Ms 348	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b53164662c	Gallica	Paper	1865	44 feuillets		Phylactère	Ms.
-		Bibliothèque Nationale de France	France	Paris	https://books.openedition.org/editionsbnf/docannexe/image/1144/img-2.jpg	Gallica	Papyrus	6th-7th c.			Papyrus arméno-grec	Ms.
+P		Bibliothèque Nationale de France	France	Paris	https://books.openedition.org/editionsbnf/docannexe/image/1144/img-2.jpg	Gallica	Papyrus	6th-7th c.			Papyrus arméno-grec	Ms.
 CHY0013	0013 (1346)	Chantilly, Musée Condé	France	Chantilly	https://bvmm.irht.cnrs.fr/iiif/185/canvas/canvas-123026/view	BVMM	Parchment	15th-16th c.	265 folios	16,5 x 11,0 cm	Bible	Ms.
 CHY0014	0014 (1353)	Chantilly, Musée Condé	France	Chantilly	https://bvmm.irht.cnrs.fr/iiif/187/canvas/canvas-123856/view	BVMM	Parchment	after 1680	302 folios	19,0 x 13,5 cm	Evangiles	Ms.
 BER Petermann I 152	Petermann I 152	Staatsbibliothek zu Berlin	Germany	Berlin	http://resolver.staatsbibliothek-berlin.de/SBB0001F55300000000	digital.staatsbibliothek-berlin	Paper	18th c.	299 pages		Geschichte des Königssohns Jovasaph und des Barlaam und Liedersammlung	Ms.
@@ -1015,17 +1015,17 @@ NKM Acc. 57.185.3	Acc. 57.185.3	Metropolitan Museum of Art	USA	New York	https://
 NKM Acc. 2009.65	Acc. 2009.65	Metropolitan Museum of Art	USA	New York	https://www.metmuseum.org/art/collection/search/478392	Metropolitan Museum of Art	Parchment	15th–16th c.	2 images	13.7 x 10.2 cm		Inc.
 NKM Acc. 2010.108	Acc. 2010.108	Metropolitan Museum of Art	USA	New York	https://www.metmuseum.org/art/collection/search/478665	Metropolitan Museum of Art	Paper	1434-1435		28.1 x 19.4 x 8.5 cm	Gospel Book	Inc.
 NKM Acc. 2014.740	Acc. 2014.740	Metropolitan Museum of Art	USA	New York	https://www.metmuseum.org/art/collection/search/662941	Metropolitan Museum of Art	Paper	15th c.	2 images	16.2 × 26.6 cm	Gospel Book	Inc.
-	MS 24	Harvard Divinity School, Harvard University	USA	Cambridge (MA)	https://iiif.lib.harvard.edu/manifests/view/drs:423203552$642i	iiif	Paper	1504	642 images		Awetaran	
-	Ms 3	Yale University Library, Beinecke Library, Hartford Seminary Collection	USA	New Heaven	https://brbl-dl.library.yale.edu/vufind/Record/4427804	Beinecke Digital Collections		1307-1331	1 image		Gospel book	Inc.
-	Ms 14	Yale University Library, Beinecke Library, Hartford Seminary Collection	USA	New Heaven	https://brbl-dl.library.yale.edu/vufind/Record/3445447	Beinecke Digital Collections		17th c.	1 image		Miscellaneous texts	Inc.
+CD 24	MS 24	Harvard Divinity School, Harvard University	USA	Cambridge (MA)	https://iiif.lib.harvard.edu/manifests/view/drs:423203552$642i	Harvard Liibrary	Paper	1504	642 images		Awetaran	
+NH 3	Ms 3	Yale University Library, Beinecke Library, Hartford Seminary Collection	USA	New Heaven	https://brbl-dl.library.yale.edu/vufind/Record/4427804	Beinecke Digital Collections		1307-1331	3 images		Gospel book	Inc.
+NH 14	Ms 14	Yale University Library, Beinecke Library, Hartford Seminary Collection	USA	New Heaven	https://brbl-dl.library.yale.edu/vufind/Record/3445447	Beinecke Digital Collections		17th c.	24 images		Miscellaneous texts	Inc.
 		Private collection	USA	New Jersey	http://manuscriptevidence.org/wpme/new-testament-leaves-in-old-armenian/	Research Group of Manuscript Evidence	Paper	15th-16th c.	2 images	13.7 x 10 cm	Gospel book	Inc.
-	B10A and B10B	Oberlin College	USA	Oberlin	http://ds.lib.berkeley.edu/B10AandB10B_26	Digital Scriptorium	Paper	17th c.	2 images	38.5 x 25.9 cm	Bible	Inc.
-	B11	Oberlin College	USA	Oberlin	http://ds.lib.berkeley.edu/B11_26	Digital Scriptorium	Parchment	16th c.	2 images	13.8 x 10.2 cm		Inc.
-	P5	Oberlin College	USA	Oberlin	http://ds.lib.berkeley.edu/P5_26	Digital Scriptorium	Paper	18th c.	2 images	20.6 x 14.7 cm	book of Prayers	Inc.
-	Ege MS 3	Providence Public Library	USA	Providence	http://ds.lib.berkeley.edu/EgeMS3_28	Digital Scriptorium	Paper	17th c.	1 image	36.7 x 24.7 cm		Inc.
-	VFL MS 051	Saint Louis University	USA	St. Louis	http://ds.lib.berkeley.edu/VFLMS051_44	Digital Scriptorium	Parchment	18th c.	2 images	20.3 x 15.2 cm	Bible	Frag.
-	Lewis T451	Free Library, Lewis Collections	USA	Philadelphia	https://libwww.freelibrary.org/digital/item/mcat094511	Free Library of Philadelphia	Parchment		2 images			Inc.
-	Ms 24	University of South Florida Library	USA	Tampa	http://digital.lib.usf.edu/SFS0006019/00001/search?search=armenian	USF libraries Digital collections	Paper		10 images	12.7 x 9 cm	Hymnal	Inc.
+OBE B10A and B10B	B10A and B10B	Oberlin College	USA	Oberlin	http://ds.lib.berkeley.edu/B10AandB10B_26	Digital Scriptorium	Paper	17th c.	2 images	38.5 x 25.9 cm	Bible	Inc.
+OBE B11	B11	Oberlin College	USA	Oberlin	http://ds.lib.berkeley.edu/B11_26	Digital Scriptorium	Parchment	16th c.	2 images	13.8 x 10.2 cm		Inc.
+OBE P5	P5	Oberlin College	USA	Oberlin	http://ds.lib.berkeley.edu/P5_26	Digital Scriptorium	Paper	18th c.	2 images	20.6 x 14.7 cm	book of Prayers	Inc.
+PRV Ege MS 3	Ege MS 3	Providence Public Library	USA	Providence	http://ds.lib.berkeley.edu/EgeMS3_28	Digital Scriptorium	Paper	17th c.	1 image	36.7 x 24.7 cm		Inc.
+SAAL VFL MS 051	VFL MS 051	Saint Louis University	USA	St. Louis	http://ds.lib.berkeley.edu/VFLMS051_44	Digital Scriptorium	Parchment	18th c.	2 images	20.3 x 15.2 cm	Bible	Frag.
+PHF Lewis T451	Lewis T451	Free Library, Lewis Collections	USA	Philadelphia	https://libwww.freelibrary.org/digital/item/mcat094511	Free Library of Philadelphia	Parchment		2 images			Inc.
+TAM 24	Ms 24	University of South Florida Library	USA	Tampa	http://digital.lib.usf.edu/SFS0006019/00001/search?search=armenian	USF libraries Digital collections	Paper		10 images	12.7 x 9 cm	Hymnal	Inc.
 VAT arm 1	Vat.arm.1	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.1	Digital Vatican Library						Ms.
 VAT arm 2	Vat.arm.2	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.2	Digital Vatican Library						Ms.
 VAT arm 3	Vat.arm.3	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.3	Digital Vatican Library						Ms.
