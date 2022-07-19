@@ -35,29 +35,181 @@ MAF125	125	Musée Arménien de France - IRHT	France	Paris	https://bvmm.irht.cnrs
 MAF126	126	Musée Arménien de France - IRHT	France	Paris	https://bvmm.irht.cnrs.fr/iiif/24122/canvas/canvas-2423820/view	BVMM	Paper	18th c.		17 x 9 cm	Amulette 	Frag.
 MAF127	127	Musée Arménien de France - IRHT	France	Paris	https://bvmm.irht.cnrs.fr/iiif/24123/canvas/canvas-2423823/view	BVMM	Paper	17th-18th c.		19 x 8.5 cm	Amulette 	Frag.
 MAF128	128	Musée Arménien de France - IRHT	France	Paris	https://bvmm.irht.cnrs.fr/iiif/24126/canvas/canvas-2424188/view	BVMM	Paper	18th c.		15.1 x 9.3 cm	Amulette 	Frag.
+P2	Ms 2	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100884921	Gallica	Paper	15th c.	197 folios	17,0 x 24,5 cm	Psautier	Ms.
+P3	Ms 3	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086159p	Gallica	Paper	1290-1300	336 folios	16,3 x 25,7 cm	Pentécostaire	Ms.
+P5	Ms 5	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100883342	Gallica	Paper	1290-1300	366 folios	16,0 x 25,7 cm	Pentécostaire	Ms.
+P7	Ms 7	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086156b	Gallica	Paper	17th c.	128 folios	7,0 x 10,4 cm	Psautier	Ms.
+P9	Ms 9	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100884387	Gallica	Paper	1617	117 folios	19,0 x 26,2 cm	Recueil	Ms.
+P10	Ms 10	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100886541	Gallica	Paper	1682	142 folios	14,8 x 19,0 cm	Psautier	Ms.
+P12	Ms 12	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885608	Gallica	Parchment	mid 16th c.	273 folios	6,7 x 10 cm	Psautier	Ms.
+P14	Ms 14	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885464	Gallica	Paper	1689	116 folios	16,5 x 22,5 cm	Psautier, vocabularium-armenicum	Ms.
+P15	Ms 15	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100861602	Gallica	Parchment, Paper	11th c.	126 folios	30,0 x 36,0 cm	Évangiles	Ms.
+P17	Ms 17	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100882371	Gallica	Parchment	1356	331 folios	13,5 x 20,5 cm	Évangiles	Ms.
+P18	Ms 18	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100873785	Gallica	Paper	1456	313 folios	15,0 x 20,5 cm	Évangiles	Ms.
+P19	Ms 19	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087379m	Gallica	Paper	1295	319 folios	16,0 x 24,0 cm	Évangiles	Ms.
+P20	Ms 20	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086154f	Gallica	Parchment	1356	214 folios	7,5 x 11,0 cm	Évangiles	Ms.
+P21	Ms 21	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100873800	Gallica	Parchment	16th c.	293 folios	10,0 x 14,0 cm	Évangiles	Ms.
+P25	Ms 25	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10093329g	Gallica	Parchment	1659	273 folios	12,5 x 17,0 cm	Évangiles	Ms.
+P27	Ms 27	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100889009	Gallica	Parchment	12th c.	323 folios	28,5 x 28,7 cm	Nouveau testament en arménien-grec-italien	Ms.
+P28	Ms 28	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088547k	Gallica	Paper	1710	185 folios + 123 folios	15,5 x 20,5 cm	Nouveau Testament et divers	Ms.
+P29	Ms 29	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885625	Gallica	Paper	17th c.	55 folios	10,0 x 15,0 cm	Évangile de Nicodème	Ms.
+P32	Ms 32	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088899p	Gallica	Paper	17th c.	345 folios	21,0 x 29,5 cm	Nerses Lampronatsi et Vardan Areveltsi. Commentaire des Saintes Écritures	Ms.
+P33	Ms 33	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088493g	Gallica	Paper	18th c.	199 folios	13,5 x 18,5 cm	Nerses Lampronatsi. Commentaire sur les douze Prophètes	Ms.
+P34	Ms 34	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885481	Gallica	Paper	17th c.	341 folios	150 x 22,0 cm	Jean Chrysostome, Commentaire sur l'évangile selon Matthieu	Ms.
+P37	Ms 37	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885286	Gallica	Paper	1500	86 folios	17,5 x 24,0 cm	Yovhannes Orotnec'i, Commentaire sur les épîtres de Paul	Ms.
+P38	Ms 38	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100881633	Gallica	Paper	1696	120 folios	14,0 x 20,0 cm	Yovhannes Orotnec'i, Commentaire sur les épîtres de Paul	Ms.
+P39	Ms 39	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088523z	Gallica	Paper	14th c.	12 folios	17,0 x 25,0 cm	Sargis Snorhali, Commentaire sur les épîtres catholiques	Frag.
+P40	Ms 40	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885536	Gallica	Paper	15th c.	521 folios	21,5 x 32,5 cm	Sargis Snorhali, Commentaire sur les épîtres catholiques	Ms.
+P41	Ms 41	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100871411	Gallica	Paper	14th c.	36 folios	17,0 x 24,0 cm	André et Aréthas de Cappadoce, commentaire sur l'apocalypse de Jean	Ms.
+P42 	Ms 42	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088901r	Gallica	Paper	1274	236 folios	15,5 x 21,0 cm	Vardan Arewelc'i, Commentaire des Saintes-Ecritures	Ms.
+P43	Ms 43	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088563m	Gallica	Paper	1700	283 folios	14,5 x 19,0 cm	Recueil de sermons	Ms.
+P44	MS 44	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087142g	Gallica	Parchment	10th c.	155 folios	28,5 x 33,0 cm	Mémorial des synaxes ou vieux lectionnaires	Ms.
 P45	Ms 45	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b525074527	Gallica	Paper	16th c.	258 folios	25.5 x 18.5 cm	Recueil liturgique	Ms.
+P46	Ms 46	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885642	Gallica	Paper	1606	109 folios	7,0 x 9,0 cm	Bréviaire	Ms.
+P47	MS 47	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088565h	Gallica	Paper	1642	120 folios	7,0 x 10,5 cm	Bréviaire	Ms.
+P48	Ms 48	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088566z	Gallica	Parchment	1655	170 folios	7,0 x 9,5 cm	Bréviaire	Ms.
+P49	Ms 49	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087143x	Gallica	Paper	1429	196 folios	6,5 x 9 cm	Manuel de chant	Ms.
+P50	Ms 50	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088567d	Gallica	Paper	14th c.	128 folios	8,5 x 12 cm	Manuel de chant	Ms.
+P51	Ms 51	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088568v	Gallica	Parchment	17th c.	92 folios	7,0 x 9,0 cm	Manuel de chant	Ms.
+P52	Ms 52	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087126f	Gallica	Paper	13th c.	59 folios	15,0 x 23,5 cm	Mashtots‘	Ms.
+P53	Ms 53	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087127w	Gallica	Paper	13th c.	90 folios	15,0 x 23,5 cm	Mashtots‘	Ms.
+P54	Ms 54	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087128b	Gallica	Paper	13th c.	48 folios	15,0 x 23,5 cm	Mashtots‘	Ms.
+P55	Ms 55	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088536q	Gallica	Paper	13th c.	36 folios	15,0 x 23,5 cm	Mashtots‘	Ms.
+P56	Ms 56	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885553	Gallica	Paper	1500	234 folios	14,5 x 21,5 cm	Mashtots‘	Ms.
+P57	Ms 57	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885699	Gallica	Paper	1572	86 folios	13,5 x 17,5 cm	Mashtots‘	Ms.
+P59	Ms 59	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087144c	Gallica	Paper	1537	288 folios	16,0 x 23,0 cm	Mashtots‘	Ms.
+P61	Ms 61	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100998659	Gallica	Paper	1668	199 folios	18,0 x 24,5 cm	Mashtots‘ / Rituel d'ordination	Ms.
 P65	Ms 65	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b525011917	Gallica	Paper	14th c.	311 folios	13 x 9.8 cm	Hymnaire	Ms.
+P66	Ms 66	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088239x	Gallica	Parchment	1319	315 folios	9,5 x 13,5 cm	Hymnaire	Ms.
+P67	Ms 67	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087145t	Gallica	Paper	1341	327 folios	9,5 x 13,5 cm	Hymnaire	Ms.
+P69	Ms 69	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100886363	Gallica	Parchment	1429	335 folios	10,0 x 13,5 cm	Hymnaire	Ms.
+P72	Ms 72	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088570p	Gallica	Paper	1609	323 folios	11,0 x 15,5 cm	Hymnaire-octoéchos	Ms.
 P75	Ms 75	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52504973c	Gallica	Paper	1640	412 images	15 x 10.5 cm	Hymnaire	Ms.
+P79	Ms 79	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100871468	Gallica	Paper	13th c.	403 folios	17,0 x 25,0 cm	Kondakarion et livre d'odes	Ms.
+P80	Ms 80	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100871680	Gallica	Paper	1381	378 folios	18,0 x 27,0 cm	Kondakarion et livre d'odes	Ms.
+P81	Ms 81	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885714	Gallica	Parchment	1428	263 folios	8,8 x 12,0 cm	Manuel de chant	Ms.
+P86	Ms 86	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885820	Gallica	Paper	15th c.	371 folios	20,5 x 30,5 cm	Lectionnaire	Ms.
+P87	Ms 87	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885375	Gallica	Paper	1655	24 folios	19,5 x 26,0 cm	Missel	Ms.
+P90	Ms 90	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100882354	Gallica	Paper	1729	24 folios	20,0 x 27,5 cm	Missel	Ms.
+P93	Ms 93	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088527r	Gallica	Paper	1676	98 folios	14,5 x 20,5 cm	Lectionnaire	Ms.
 P103	Ms 103	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100889043	Gallica	Paper	1800	414 folios	21,5 x 20,0 cm	Yovhannes Ganjakeci, Explication des fêtes	Ms.
 P105	Ms 105	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52510709b	Gallica	Paper	14th c.	581 folios	9,0 x 12,5 cm	Bréviaire romain	Ms.
 P106	Ms 106	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52507207n	Gallica	Paper	1337	264 folios	23.5 x 16 cm	Missel romain	Ms.
 P107	Ms 107	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52506986t	Gallica	Paper	1381	248 folios	29 x 19 cm	Missel romain.	Ms.
 P109	Ms 109	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087327n	Gallica	Paper	11th c.	48 folios	17,0 x 26,0 cm	Basile de Césarée, Petites règles	Ms.
 P111	Ms 111	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087383b	Gallica	Paper	13th c.	103 folios	33,0 x 51,5 cm	Homéliaire-Martyrologue	Ms.
+P112	Ms 112	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087384s	Gallica	Paper	1254	293 folios	20,5 x 27,5 cm	Agathange et Homélies de saint Grégoire	Ms.
+P113	Ms 113	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087147q	Gallica	Paper	1298	178 folios	16,5 x 25,0 cm	"Evagre le Pontique, Oeuvres ; Grigor Vardapet Skewraci, Commentaire"	Ms.
+P114	Ms 114	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088903n	Gallica	Paper	13th c.	381 folios	24,0 x 33,0 cm	Rational	Ms.
+P116	Ms 116	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088664f	Gallica	Paper	1307	334 folios	46,5 x 69,5 cm	Homéliaire-Martyrologue	Ms.
+P117	Ms 117	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100882193	Gallica	Paper	1307	277 folios	46,5 x 69,5 cm	Homéliaire-Martyrologue	Ms.
+P118	Ms118	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088220g	Gallica	Paper	1307	368 folios	46,5 x 69,5 cm	Homéliaire-Martyrologue	Ms.
+P119	Ms 119	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087413t	Gallica	Paper	1319	160 folios	12,0 x 16,5 cm	Grégoire de Nazianze, œuvres	Ms.
 P120	Ms 120	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52506819w	Gallica	Paper	14th c.	549 folios	45 x 28.5 cm	Homéliaire. Vies de Saints	Ms.
+P121	Ms 121	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100871485	Gallica	Paper	1386	214 folios	7,0 x 10,0 cm	Recueil	Ms.
 P122	Ms 122	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52517202q	Gallica	Paper	14th c.	263 folios	17,0 x 24,5 cm	Recueil	Ms.
+P123	Ms 123	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100879340	Gallica	Paper	13th c.	34 folios	11,5 x 17,0 cm	Hamam Arewelc'i, Explication de Denys l'Aéropagite	Ms.
+P124	Ms 124	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100865020	Gallica	Paper	1554	165 folios	15,5 x 21,5 cm	Recueil	Ms.
+P125	Ms 125	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088637j	Gallica	Paper	1610	60 folios	13,0 x 18,5 cm	Questions d'Athanase d'Alexandrie et réponses de Cyrille de Jérusalem	Ms.
 P128	Ms 128	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52508835m	Gallica	Paper	17th c.	289 folios	20.5 x 14.5 cm	Recueil	Ms.
+P129	Ms 129	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088572k	Gallica	Paper	17th c.	382 folios	13,5 x 19,0 cm	Jean Chrysostome, Homélies	Ms.
 P130	Ms 130	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086163d	Gallica	Paper	1221	732 pages	12,5 x 17,0 cm	Nerses Lambronaci, Recueil de documents écclésiastiques arméno-byzantins	Ms.
+P131	Ms 131	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100874059	Gallica	Paper	1298	11 folios	16,0 x 24,0 cm	Yovhannes Ojneci, Contre les Phantasiastes	Ms.
+P132	Ms 132	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087406r	Gallica	Paper	1374	264 folios	13,0 x 18,0 cm	Grigor Narekac'i	Ms.
+P135	Ms 135	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086558r	Gallica	Paper	15th c.	21 folios	11,5 x 16,5 cm	Traité sur les deux natures en Jésus-Christ	Ms.
+P140	Ms 140	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885731	Gallica	Paper	1652 and 1690	257 folios	11,0 x 15,5 cm	Thomas A Kempis, Imitatio Christi et Recueil	Ms.
+P142	Ms 142	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088574g	Gallica	Paper	1690-1700	144 folios	10,5 cm x 15,0 cm	"Paul Piromalli, De la vérité de la foi chrétienne ; Yovhannes Kostandnupolsec'i, Réponses à la lettre écrite par certains frères arméniens à un adversaire"	Ms.
+P143	Ms 143	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087149m	Gallica	Paper	1701	72 folios	12,0 x 17,0 cm	Recueil	Ms.
+P145	Ms 145	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100871500	Gallica	Paper	17th c.	47 folios	44,0 x 58,5 cm	Professions de foi des Eglises orientales	Ms.
+P147	Ms 147	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088494x	Gallica	Paper	1550-1560	203 folios	10,5 x 15,0 cm	Recueil	Ms.
+P149	Ms 149	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088238g	Gallica	Paper	1670-1680	89 folios	18,5 x 26,0 cm	Barthélemy de Bologne, Des six jours de la Création	Ms.
+P151	Ms 151	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087151f	Gallica	Paper	1669	47 folios	10,5 x 14,5 cm	Controverses théologiques	Ms.
+P152	Ms 152	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087152w	Gallica	Paper	1705	139 folios	12,0 x 18,0 cm	Recueil	Ms.
+P153	Ms 153	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087167j	Gallica	Paper	1704	184 folios	14,5 x 20,5 cm	Recueil	Ms.
+P158	Ms 158	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088538m	Gallica	Paper	1786	106 folios	21,0 x 27,0 cm	Nerses Lambronaci, Discours et homélies	Ms.
+P160	Ms 160	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885392	Gallica	Paper	1700	169 folios	24,5 x 37,0 cm	Paolo Piromalli, de la vérité de la foi chrétienne	Ms.
+P161	Ms 161	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088583f	Gallica	Paper	1700	354 folios	16,5 x 27,0 cm	Clément Galano, Conciliatio ecclesiae armenae cum romana, pars prima	Ms.
+P162	Ms 162	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088584w	Gallica	Paper	1700	336 folios	16,5 x 27,0 cm	Clément Galano, Conciliatio ecclesiae armenae cum romana, secunda pars, tomus primus	Ms.
+P163	Ms 163	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885983	Gallica	Paper	1700	336 folios	16,5 x 27,0 cm	Clément Galano, Conciliatio ecclesiae armenae cum romana, secunda pars, tomus secundus	Ms.
 P164	Ms 164	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100861693	Gallica	Paper	1680	489 folios	15,0 x 20,0 cm	Grigor Tatewac'i, Livre des questions	Ms.
+P165	Ms 165	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087153b	Gallica	Paper	1612-1637	154 folios	16,5 x 23,0 cm	Nerses Lambronaci, Oeuvres	Ms.
+P167	Ms 167	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087187c	Gallica	Paper	1781-1884	175 docs.	36,5 x 64,5 cm	Recueil de correspondances de catholicos et de prélats arméniens avec des prêtes de Tabriz	Ms.
+P170	Ms 170	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086155w	Gallica	Paper	1653-1654	18 folios	15,0 x 19,5 cm	Tableau des fêtes mobiles de 1654 à 1671 (en arméno-kyptchak)	Ms.
+P172	Ms 172	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088540f	Gallica	Paper	1597	310 folios	14,5 x 21,0 cm	Canons des conciles	Ms.
+P176	Ms 176	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087340b	Gallica	Paper	1568	115 folios	14,0 x 21,0 cm	Code des lois du tribunal arménien de Lvov (en arméno-kyptchak)	Ms.
+P177	Ms 177	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100865522	Gallica	Paper	mid. 19th c.	172 pages	22,0 x 35,5 cm	Mxitar Gos, code des lois	Ms.
+P178	Ms 178	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100874360	Gallica	Paper	12th c.	643 folios	32,5 x 51,0 cm	Vitae Sanctorum	Ms.
+P179	Ms 179	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100874076	Gallica	Paper	1231	125 folios	15,0 x 23,5 cm	Nerses Lambronaci, Recueil de documents écclésiastiques arméno-byzantins	Ms.
+P180	Ms 180	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087408n	Gallica	Paper	1316	339 folios	25,0 x 35,0 cm	Synaxaire	Ms.
+P181	Ms 181	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088585b	Gallica	Paper	1444	602 folios	26,5 x 37,0 cm	Synaxaire	Ms.
+P183	Ms 183	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087913q	Gallica	Paper	1487	589 folios	24,5 x 36,5 cm	Synaxaire	Ms.
+P184	Ms 184	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088575x	Gallica	Paper	1584-1609	270 folios	12,0 x 18,5 cm	Recueil	Ms.
 P185	Ms 185	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b55014012p	Gallica	Paper	1612 - 1615	71 folios	8,5 x 13,5 cm	Recueil	Ms.
 P186	Ms 186	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52506835x	Gallica	Paper	1618	225 folios	20 x 15 cm	Recueil	Ms.
+P191	Ms 191	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100886937	Gallica	Paper	1642-1647	132 folios	14,0 x 19,5 cm	Recueil	Ms.
+P192	Ms 192	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086162z	Gallica	Paper	1636	110 folios	15,0 x 20,0 cm	Recueil	Ms.
+P193	Ms 193	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088576c	Gallica	Paper	1669	350 folios	10,0 x 15,5 cm	Recueil	Ms.
+P194	Ms 194	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087393r	Gallica	Paper	mid. 17th	68 folios	17,0 x 20,5 cm	Recueil (arméno-kyptchak)	Ms.
+P196	Ms 196	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087186x	Gallica	Paper	1704	60 folios	11,0 x 16,0 cm	"Histoire des ottomans... révoltés ; Du conflit... au sein de notre nation"	Ms.
+P200	Ms 200	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088577t	Gallica	Paper	1728	270 folios	12,0 x 18,0 cm	Mesrop Vayoc'jorec'i, Vie de saint Nerses, Matt'eos Urhayec'i, Chronique	Ms.
+P201	Ms 201	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087154s	Gallica	Paper	18th c.	82 folios	16,0 x 21,0 cm	Nerses Lambronaci, Recueil de documents écclésiastiques arméno-byzantins	Ms.
+P202	Ms 202	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885788	Gallica	Paper	1850	315 folios	19,5 x 15,0 cm	Vardan Arewelc'i, Histoire universelle	Ms.
+P205	Ms 205	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100874093	Gallica	Paper	1787	546 pages	21,0 x 26,5 cm	Lazar P'arpec'i, Histoire d'Arménie	Ms.
+P206	Ms 206	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086548b	Gallica	Paper	1700-1710	334 folios	16,0 x 27,5 cm	Movses Xorenac'i, Histoire d'Arménie	Ms.
 P207	Ms 207	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086546f	Gallica	Paper	1815	263 pages	20,0 x 24,5 cm	Movses Xorenac'i, Histoire d'Arménie et Géographie	Ms.
+P208	Ms 208	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088586s	Gallica	Paper	1851	148 folios	17,5 x 22,5 cm	Lewond Vardapet, Histoire d'Arménie	Ms.
+P211	Ms 211	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088541w	Gallica	Paper	1736-1737	708 pages	18,5 x 25,5 cm	Yovhannes Drasxanakertc'i, Histoire d'Arménie	Ms.
+P211	Ms 211	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088542b	Gallica	Paper	1736-1737	708 pages	18,5 x 25,5 cm	Yovhannes Drasxanakertc'i, Histoire d'Arménie	Ms.
+P217	Ms 217	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100873427	Gallica	Paper	1850	207 folios	17,5 x 23,5 cm	Movses Kalankatuac'i, Histoire des Aluans	Ms.
+P218	Ms 218	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885877	Gallica	Paper	1852	264 folios	18,0 x 23,5 cm	Movses Kalankatuac'i, Histoire des Aluans	Ms.
+P220	Ms 220	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087343p	Gallica	Paper	1857	566 pages	18,0 x 23,5 cm	Movses Kalankatuac'i, Histoire des Aluans	Ms.
+P221	Ms 221	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088543s	Gallica	Paper	1859	346 pages	23,5 x 32,0 cm	Movses Kalankatuac'i, Histoire des Aluans	Ms.
+P223	Ms 223	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885447	Gallica	Paper	1855	4 folios	20,5 x 27,0 cm	Stepannos Asolik Taronec'i, Fragments de l'histoire universelle	Ms.
+P226	Ms 226	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088579q	Gallica	Paper	1851	438 folios	19,0 x 15,0 cm	Kirakos Ganjakec'i, Histoire d'Arménie	Ms.
+P231	Ms 231	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100870084	Gallica	Paper	1857	176 pages	21,0 x 35,5 cm	Step'annos Orbelean, Histoire de la province du Siwnik'	Ms.
+P232	Ms 232	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088324n	Gallica	Paper	1850	24 folios	19,5 x 26,0 cm	T'oma Mecop'ec'i, Histoire de Tamerlan	Ms.
+P236	Ms 236	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100871250	Gallica	Paper	1850	160 pages	14,5 x 20,5 cm	Abraham Kretac'i, Histoire des évènements de son temps	Ms.
+P240	Ms 240	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100871557	Gallica	Paper	14th c.	406 folios	12,5 x 16,5 cm	Porphyre / Pseudo-Aristote / Dawit' Anyalt', Oeuvres	Ms.
+P241	Ms 241	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087156p	Gallica	Paper	15th c.	232 folios	12,5 x 18 cm	Porphyre / Pseudo-Aristote / Dawit' Anyalt', Oeuvres	Ms.
+P242	Ms 242	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088441h	Gallica	Paper	1736	142 folios	10,5 x 16,0 cm	Dawit' Anyalt', commentaire sur l'isagoge de Porphyre	Ms.
+P246	Ms 246	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088630d	Gallica	Paper	1636-1639	96 folios	16,0 x 21,5 cm	Mxitar Herac'i, Traité sur la guérison des fièvres	Ms.
+P247	Ms 247	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088802t	Gallica	Paper	1636-1639	96 folios	16,0 x 21,5 cm	Traité de médecine	Ms.
+P248	Ms 248	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086267k	Gallica	Paper	1680	156 folios	15,0 x 21,0 cm	Traité d'alchimie	Ms.
+P252	Ms 252	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100871574	Gallica	Paper	1662	184 folios	14,5 x 20,5 cm	Traité des calendriers	Ms.
+P257	Ms 257	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100932382	Gallica	Paper	1686-1696	119 pages	21,0 x 14,5 cm	Recueil	Ms.
+P260	Ms 260	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088689h	Gallica	Paper	1597	268 folios	10,0 x 15,0 cm	Dictionnaires	Ms.
+P262	Ms 262	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885803	Gallica	Paper	1707-1711	129 folios	18,5 x 24,0 cm	Pétis de la Croix, Dictionnaire français-arménien	Ms.
+P271	Ms 271	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100879145	Gallica	Paper	1692	264 folios	14,0 x 19,5 cm	Recueil	Ms.
+P276	Ms 276	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885301	Gallica	Paper	1730	80 folios	21,5 x 34,5 cm	Grammaire abrégée pour apprendre la langue arménienne	Ms.
+P279	Ms 279	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100880823	Gallica	Paper	1811	110 folios	20,0 x 31,5 cm	Margar Xocenc', grammaire arabe expliquée en arménien	Ms.
+P280	Ms 280	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100878659	Gallica	Paper	1859	37 folios	21,0 x 27,0 cm	Karapet Lahramanean Awt'antileanc', Grammaire abrégée de la langue de la province d'oudi, dans la grande arménie	Ms.
 P291	Ms 291	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52502689n	Gallica	Paper	1646	207 folios	21 x 14.5 cm	Pseudo-Callisthène. Roman d'Alexandr.	Ms.
 P294	Ms 294	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b525026975	Gallica	Paper	1820	39 folios	23 x 16 cm	Yovhannes Zōhrapean. Catalogue de manuscrits.	Ms.
+P302	Ms 302	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088439p	Gallica	Paper	1282	358 folios	9,5 x 13,0 cm	Recueil	Ms.
+P303	Ms 303	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100879719	Gallica	Paper	13th c.	11 folios	15,0 x 23,5 cm	Recueil	Ms.
+P304	Ms 304	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088545p	Gallica	Paper	1664	267 folios	15,0 x 20,5 cm	Recueil	Ms.
+P306	Ms 306	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100862469	Gallica	Paper	1673	490 folios	11,0 x 16,0 cm	Recueil	Ms.
+P307	Ms 307	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086170g	Gallica	Paper	1650	227 folios	17,5 x 23,5 cm	Recueil	Ms.
+P308	Ms 308	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088221x	Gallica	Paper	1684	192 folios	10,5 x 15,0 cm	Recueil	Ms.
+P309	Ms 309	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088588p	Gallica	Paper	1682	304 folios	10,5 x 14,5 cm	Recueil	Ms.
+P311	Ms 311	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087158k	Gallica	Paper	17th c.	372 folios	9,5 x 14,0 cm	Recueil	Ms.
+P314	Ms 314	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088241r	Gallica	Paper	1716	302 folios	8,0 x 11,0 cm	Simeon Julayec'i, oeuvres	Ms.
+P317	Ms 317	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087009k	Gallica	Paper	1760-1801	69 folios	13,0 x 17,0 cm	Recueil	Ms.
+P318	Ms 318	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088515f	Gallica	Paper	1711-1854	512 folios	25,5 x 37,5 cm	Recueil de lettres et de bulles	Ms.
+P324	Ms 324	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088516w	Gallica	Paper	1816-1828	68 folios	23,0 x 27,0 cm	Correspondance du P. Yovhannes Zohrapean	Ms.
+P329	Ms 329	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100871591	Gallica	Paper	13th c.	188 folios	11,0 x 15,0 cm	Histoire de Josapha et de Barlaam	Ms.
+P330	Ms 330	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086235f	Gallica	Paper	18th c.	214 folios	15,0 x 20,0 cm	Movses Xorenac'i, Histoire d'Arménie	Ms.
+P331	Ms 331	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088599j	Gallica	Paper	15th - 17th c.	140 folios	14,0 x 21,0 cm	Recueil de canons et de sermons	Ms.
 P334	Ms 334	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b52517727p	Gallica	Paper	1697-1760	184 folios	16,0 x 20,5 cm	Recueil	Ms.
+P337	Ms 337	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086233j	Gallica	Paper	1390-1412	367 folios	26 x 34,5 cm	Lectionnaire	Ms.
 P338	Ms 338	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b525048374	Gallica	Parchment	1670	86 folios	19 x 14 cm	Eremia Çelebi Kömürcüyan (1635-1695). Livre d'histoire	Ms.
+P341	Ms 341	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100886005	Gallica	Paper	16th c.	572 pages	8,4 x 13,5 cm	Hymnaire	Ms.
+P346	Ms 346	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885286	Gallica						Ms.
 P348	Ms 348	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b53164662c	Gallica	Paper	1865	44 feuillets		Phylactère	Ms.
+P349	MS 349	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b550138862	Gallica	Paper	1916-1917	78 feuillets		Carnet de Serpouhi Hovaghian	Ms.
 P		Bibliothèque Nationale de France	France	Paris	https://books.openedition.org/editionsbnf/docannexe/image/1144/img-2.jpg	Gallica	Papyrus	6th-7th c.			Papyrus arméno-grec	Ms.
+P Arabe 2523	Ms Arabe 2523	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10037502s	Gallica	Paper	14th c.	4 feuillets	24 x 17 cm	"Arabic manuscript ; Quatre feuillets provenant d'un ms. arménien ont été reliés au commencement et à la fin du volume."	Frag.
+P Syriaque 344	Ms Syriaque 344	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10528607t	Gallica	Paper	16th c.	10 folios	31,2 x 19,8 cm	Volume de peintures illustrant la vie de Jésus, avec légendes en syriaque et en arménien	Ms.
 CHY0013	0013 (1346)	Chantilly, Musée Condé	France	Chantilly	https://bvmm.irht.cnrs.fr/iiif/185/canvas/canvas-123026/view	BVMM	Parchment	15th-16th c.	265 folios	16,5 x 11,0 cm	Bible	Ms.
 CHY0014	0014 (1353)	Chantilly, Musée Condé	France	Chantilly	https://bvmm.irht.cnrs.fr/iiif/187/canvas/canvas-123856/view	BVMM	Parchment	after 1680	302 folios	19,0 x 13,5 cm	Evangiles	Ms.
 BER Petermann I 152	Petermann I 152	Staatsbibliothek zu Berlin	Germany	Berlin	http://resolver.staatsbibliothek-berlin.de/SBB0001F55300000000	digital.staatsbibliothek-berlin	Paper	18th c.	299 pages		Geschichte des Königssohns Jovasaph und des Barlaam und Liedersammlung	Ms.
