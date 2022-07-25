@@ -31,7 +31,8 @@ You have identified a typo or a mistake in the index, or want to add a new resou
 ```latex
 @dataset{vidal_gorene_chahan_2022_6894290,
   author       = {Vidal-Gorène, Chahan and
-                  Sargsyan, Anush},
+                  Sargsyan, Anush and
+                  Van Elverdinghe, Emmanuel},
   title        = {Index of Digitized Armenian Manuscripts},
   month        = jul,
   year         = 2022,
@@ -40,4 +41,3 @@ You have identified a typo or a mistake in the index, or want to add a new resou
   doi          = {10.5281/zenodo.6894290},
   url          = {https://doi.org/10.5281/zenodo.6894290}
 }
-```
