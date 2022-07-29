@@ -35,6 +35,7 @@ MAF125	125	Musée Arménien de France - IRHT	France	Paris	https://bvmm.irht.cnrs
 MAF126	126	Musée Arménien de France - IRHT	France	Paris	https://bvmm.irht.cnrs.fr/iiif/24122/canvas/canvas-2423820/view	BVMM	Paper	18th c.		17 x 9 cm	Amulette 	Frag.
 MAF127	127	Musée Arménien de France - IRHT	France	Paris	https://bvmm.irht.cnrs.fr/iiif/24123/canvas/canvas-2423823/view	BVMM	Paper	17th-18th c.		19 x 8.5 cm	Amulette 	Frag.
 MAF128	128	Musée Arménien de France - IRHT	France	Paris	https://bvmm.irht.cnrs.fr/iiif/24126/canvas/canvas-2424188/view	BVMM	Paper	18th c.		15.1 x 9.3 cm	Amulette 	Frag.
+P1	Ms 1	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100933677	Gallica	Parchment	11th-12th c.	10 feuillets	12.8 x 18.5 cm	Bible. A.T.. Isaïe	Frag.
 P2	Ms 2	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100884921	Gallica	Paper	15th c.	197 folios	17,0 x 24,5 cm	Psautier	Ms.
 P3	Ms 3	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086159p	Gallica	Paper	1290-1300	336 folios	16,3 x 25,7 cm	Pentécostaire	Ms.
 P5	Ms 5	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100883342	Gallica	Paper	1290-1300	366 folios	16,0 x 25,7 cm	Pentécostaire	Ms.
@@ -44,15 +45,20 @@ P10	Ms 10	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/
 P12	Ms 12	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885608	Gallica	Parchment	mid 16th c.	273 folios	6,7 x 10 cm	Psautier	Ms.
 P14	Ms 14	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885464	Gallica	Paper	1689	116 folios	16,5 x 22,5 cm	Psautier, vocabularium-armenicum	Ms.
 P15	Ms 15	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100861602	Gallica	Parchment, Paper	11th c.	126 folios	30,0 x 36,0 cm	Évangiles	Ms.
+P16	Ms 16	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087140k	Gallica	Parchment	11th c.	218 folios	28,0 x 35,2 cm	Évangiles	Ms.
 P17	Ms 17	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100882371	Gallica	Parchment	1356	331 folios	13,5 x 20,5 cm	Évangiles	Ms.
 P18	Ms 18	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100873785	Gallica	Paper	1456	313 folios	15,0 x 20,5 cm	Évangiles	Ms.
 P19	Ms 19	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087379m	Gallica	Paper	1295	319 folios	16,0 x 24,0 cm	Évangiles	Ms.
 P20	Ms 20	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10086154f	Gallica	Parchment	1356	214 folios	7,5 x 11,0 cm	Évangiles	Ms.
 P21	Ms 21	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100873800	Gallica	Parchment	16th c.	293 folios	10,0 x 14,0 cm	Évangiles	Ms.
+P22	Ms 22	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087381f	Gallica	Parchment	17th c.	204 folios	6,7 x 9,8 cm	Évangiles	Ms.
+P23	Ms 23	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10087382w	Gallica	Paper	15th c.	242 folios	16,5 x 24,5 cm	Évangiles	Ms.
+P24	Ms 24	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088561q	Gallica	Parchment	17th c.	43 folios	6,0 x 10,5 cm	Evangile selon Matthieu	Frag.
 P25	Ms 25	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10093329g	Gallica	Parchment	1659	273 folios	12,5 x 17,0 cm	Évangiles	Ms.
 P27	Ms 27	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100889009	Gallica	Parchment	12th c.	323 folios	28,5 x 28,7 cm	Nouveau testament en arménien-grec-italien	Ms.
 P28	Ms 28	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088547k	Gallica	Paper	1710	185 folios + 123 folios	15,5 x 20,5 cm	Nouveau Testament et divers	Ms.
 P29	Ms 29	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885625	Gallica	Paper	17th c.	55 folios	10,0 x 15,0 cm	Évangile de Nicodème	Ms.
+P30	Ms 30	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100862501	Gallica	Paper	15th c.	83 folios	11,2 x 15,0 cm	Grigor Narekac'i, Commentaire du Cantique des cantiques	Ms.
 P32	Ms 32	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088899p	Gallica	Paper	17th c.	345 folios	21,0 x 29,5 cm	Nerses Lampronatsi et Vardan Areveltsi. Commentaire des Saintes Écritures	Ms.
 P33	Ms 33	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b10088493g	Gallica	Paper	18th c.	199 folios	13,5 x 18,5 cm	Nerses Lampronatsi. Commentaire sur les douze Prophètes	Ms.
 P34	Ms 34	Bibliothèque Nationale de France	France	Paris	https://gallica.bnf.fr/ark:/12148/btv1b100885481	Gallica	Paper	17th c.	341 folios	150 x 22,0 cm	Jean Chrysostome, Commentaire sur l'évangile selon Matthieu	Ms.

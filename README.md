@@ -8,6 +8,7 @@ Access to certain resources may require the creation of an account on the digita
 ## Contributors
 
 * Anush Sargsyan
+* Emmanuel Van Elverdinghe
 * Chahan Vidal-Gorène
 
 Original list has been established by [Association Internationale des Études Arméniennes](https://sites.uclouvain.be/aiea/wp-content/uploads/2014/03/AIEA_Newsletter_54-compressed.pdf) and by Anush Sargsyan in 2018, and has been expanded by [Calfa](https://calfa.fr) team (2018 -).
