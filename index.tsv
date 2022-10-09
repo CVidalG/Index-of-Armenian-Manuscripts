@@ -1220,10 +1220,6 @@ PRV Ege MS 3	Ege MS 3	Providence Public Library	USA	Providence	http://ds.lib.ber
 SAAL VFL MS 051	VFL MS 051	Saint Louis University	USA	St. Louis	http://ds.lib.berkeley.edu/VFLMS051_44	Digital Scriptorium	Parchment	18th c.	2 images	20.3 x 15.2 cm	Bible	Frag.
 PHF Lewis T451	Lewis T451	Free Library, Lewis Collections	USA	Philadelphia	https://libwww.freelibrary.org/digital/item/mcat094511	Free Library of Philadelphia	Parchment		2 images			Inc.
 TAM 24	Ms 24	University of South Florida Library	USA	Tampa	http://digital.lib.usf.edu/SFS0006019/00001/search?search=armenian	USF libraries Digital collections	Paper		10 images	12.7 x 9 cm	Hymnal	Inc.
-VAT arm 1	Vat.arm.1	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.1	Digital Vatican Library						Ms.
-VAT arm 2	Vat.arm.2	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.2	Digital Vatican Library						Ms.
-VAT arm 3	Vat.arm.3	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.3	Digital Vatican Library						Ms.
-VAT arm 11	Vat.arm.11	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.11	Digital Vatican Library						Ms.
 VAT Barb.or.2	Barb.or.2	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Barb.or.2	Digital Vatican Library						Ms.
 VAT Borg.arm.1	Borg.arm.1	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Borg.arm.1	Digital Vatican Library						Ms.
 VAT Borg.arm.2	Borg.arm.2	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Borg.arm.2	Digital Vatican Library						Ms.
@@ -1313,3 +1309,49 @@ VAT Borg.arm.85	Borg.arm.85	Bibliotheca Apostolica Vaticana	Vatican	Vatican	http
 VAT Borg.arm.86	Borg.arm.86	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Borg.arm.86	Digital Vatican Library						Ms.
 VAT Borg.arm.87	Borg.arm.87	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Borg.arm.87	Digital Vatican Library						Ms.
 VAT Borg.arm.88	Borg.arm.88	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Borg.arm.88	Digital Vatican Library						Ms.
+VAT arm.1	Vat.arm.1	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.1	Digital Vatican Library						Ms.
+VAT arm.2	Vat.arm.2	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.2	Digital Vatican Library						Ms.
+VAT arm.3	Vat.arm.3	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.3	Digital Vatican Library						Ms.
+VAT arm 11	Vat.arm.11	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.11	Digital Vatican Library						Ms.
+VAT arm.4	Vat.arm.4	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.4	Digital Vatican Library						Ms.
+VAT arm.5	Vat.arm.5	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.5	Digital Vatican Library						Ms.
+VAT arm.6	Vat.arm.6	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.6	Digital Vatican Library						Ms.
+VAT arm.7	Vat.arm.7	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.7	Digital Vatican Library						Ms.
+VAT arm 8	Vat.arm 8	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.8	Digital Vatican Library						Ms.
+VAT arm.9	Vat.arm.9	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.9	Digital Vatican Library						Ms.
+VAT arm.10	Vat.arm.10	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.10	Digital Vatican Library						Ms.
+VAT arm.12	Vat.arm.12	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.12	Digital Vatican Library						Ms.
+VAT arm.13	Vat.arm.13	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.13	Digital Vatican Library						Ms.
+VAT arm.14	Vat.arm.14	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.14	Digital Vatican Library						Ms.
+VAT arm.15	Vat.arm.15	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.15	Digital Vatican Library						Ms.
+VAT arm.16	Vat.arm.16	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.16	Digital Vatican Library						Ms.
+VAT arm.17	Vat.arm.17	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.17	Digital Vatican Library						Ms.
+VAT arm.19	Vat.arm.19	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.19	Digital Vatican Library						Ms.
+VAT arm.20	Vat.arm.20	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.20	Digital Vatican Library						Ms.
+VAT arm.22	Vat.arm.22	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.22	Digital Vatican Library						Ms.
+VAT arm.23	Vat.arm.23	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.23	Digital Vatican Library						Ms.
+VAT arm.24	Vat.arm.24	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.24	Digital Vatican Library						Ms.
+VAT arm.26	Vat.arm.26	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.26	Digital Vatican Library						Ms.
+VAT arm.27	Vat.arm.27	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.27	Digital Vatican Library						Ms.
+VAT arm.29	Vat.arm.29	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.29	Digital Vatican Library						Ms.
+VAT arm.30	Vat.arm.30	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.30	Digital Vatican Library						Ms.
+VAT arm.32	Vat.arm.32	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.32	Digital Vatican Library						Ms.
+VAT arm.33	Vat.arm.33	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.33	Digital Vatican Library						Ms.
+VAT arm.34	Vat.arm.34	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.34	Digital Vatican Library						Ms.
+VAT arm.35	Vat.arm.35	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.35	Digital Vatican Library						Ms.
+VAT arm.36	Vat.arm.36	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.36	Digital Vatican Library						Ms.
+VAT arm.37	Vat.arm.37	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.37	Digital Vatican Library						Ms.
+VAT arm.38	Vat.arm.38	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.38	Digital Vatican Library						Ms.
+VAT arm.39	Vat.arm.39	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.39	Digital Vatican Library						Ms.
+VAT arm.41.pt.1	Vat.arm.41.pt.1	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.41.pt.1	Digital Vatican Library						Ms.
+VAT arm.41.pt.2	Vat.arm.41.pt.2	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.41.pt.2	Digital Vatican Library						Ms.
+VAT arm.43	Vat.arm.43	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.43	Digital Vatican Library						Ms.
+VAT arm.44	Vat.arm.44	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.44	Digital Vatican Library						Ms.
+VAT arm.45.pt.A	Vat.arm.45.pt.A	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.45.pt.A	Digital Vatican Library						Ms.
+VAT arm.45.pt.B	Vat.arm.45.pt.B	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.45.pt.B	Digital Vatican Library						Ms.
+VAT arm.46	Vat.arm.46	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.46	Digital Vatican Library						Ms.
+VAT arm.47	Vat.arm.47	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Vat.arm.47	Digital Vatican Library						Ms.
+VAT Chig.R.VI.44	Chig.R.VI.44	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Chig.R.VI.44	Digital Vatican Library						Ms.
+VAT Barb.or.100	Barb.or.100	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Barb.or.100	Digital Vatican Library						Ms.
+VAT Barb.or.117	Barb.or.117	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Barb.or.117	Digital Vatican Library						Ms.
+VAT Barb.or.130	Barb.or.130	Bibliotheca Apostolica Vaticana	Vatican	Vatican	https://digi.vatlib.it/view/MSS_Barb.or.130	Digital Vatican Library						Ms.
