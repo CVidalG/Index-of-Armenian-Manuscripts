@@ -30,15 +30,15 @@ You have identified a typo or a mistake in the index, or want to add a new resou
 ## How to cite
 
 ```latex
-@dataset{vidal_gorene_chahan_2022_6894290,
+@dataset{vidal_gorene_2024_13118731,
   author       = {Vidal-Gorène, Chahan and
                   Sargsyan, Anush and
                   Van Elverdinghe, Emmanuel},
   title        = {Index of Digitized Armenian Manuscripts},
   month        = jul,
-  year         = 2022,
+  year         = 2024,
   publisher    = {Zenodo},
-  version      = {v2.0.0},
-  doi          = {10.5281/zenodo.6894290},
-  url          = {https://doi.org/10.5281/zenodo.6894290}
+  version      = {2.5.1},
+  doi          = {10.5281/zenodo.13118731},
+  url          = {https://doi.org/10.5281/zenodo.13118731}
 }
