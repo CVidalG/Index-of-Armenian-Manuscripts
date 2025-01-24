@@ -1367,20 +1367,20 @@ ALQ6	AODA 00006	Armenian Church. Diocese of Aleppo	Syria	Aleppo	https://w3id.org
 	DFM 00474	Dominican Friars of Mosul	Iraq	Mosul	https://w3id.org/vhmml/readingRoom/view/134648	HMML	Paper	1846-1846	164 pages	13.0 x 20.5 x 2.0 cm			
 	DFM 00688	Dominican Friars of Mosul	Iraq	Mosul	https://w3id.org/vhmml/readingRoom/view/134862	HMML	Paper	1896-1896	32 pages	7.0 x 10.5 x 0.2 cm	Les successeurs des Apôtres en Arménie: IV et V siècle		
 	ASOM 00266	Syriac Orthodox Church. Archdiocese of Mosul	Iraq	Mosul	https://w3id.org/vhmml/readingRoom/view/135118	HMML	Paper	1400-1600	203 pages	15.5 x 18.5 x 5.7 cm	Sharaknotsʻ		
-6,00 BAD	DAOB 00006	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136270	HMML	Paper	1900-2000	356 pages	30.0 x 21.5 x 4.5 cm	Parish registry, Armenian Church of Baghdad, 1760-1915		
-7,00 BAD	DAOB 00007	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136271	HMML	Paper	1632-1632	225 pages	14.0 x 19.5 x 6.0 cm	Festal Hymnal		
-8,00 BAD	DAOB 00008	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136272	HMML	Paper	1700-1900	630 pages	15.5 x 20.5 x 5.5 cm	Commentary on the Gospels		
-9,00 BAD	DAOB 00009	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136273	HMML	Paper	1700-1800	203 pages	15.5 x 21.3 x 4.0 cm	Lectionary		
-10,00 BAD	DAOB 00010	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136274	HMML	Paper	1700-1900	554 pages	11.5 x 16.5 x 3.4 cm	Gospels		
-11,00 BAD	DAOB 00011	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136275	HMML	Paper	1314-1314	333 pages	10.5 x 13.5 x 8.0 cm	Festal Hymnal		
-12,00 BAD	DAOB 00012	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136276	HMML	Paper	1700-1900	988 pages	17.0 x 21.0 x 4.0 cm	Class and reading notes on various topics		
-13,00 BAD	DAOB 00013	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136277	HMML	Paper	1600-1800			Hawatov khostovanim, ew aylkʻ		
-14,00 BAD	DAOB 00014	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136278	HMML	Paper	1700-1800			Hawatov khostovanim		
-15,00 BAD	DAOB 00015	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136279	HMML	Paper	1700-1900	19 pages		Prayers		
-16,00 BAD	DAOB 00016	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136280	HMML	Paper	1841-1841	582 pages	25.0 x 35.0 x 10.0 cm	Yaysmawurkʻ		
-17,00 BAD	DAOB 00017	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136281	HMML	Paper	1602-1602	587 pages	25.0 x 36.0 x 12.0 cm	Yaysmawurkʻ		
-18,00 BAD	DAOB 00018	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136282	HMML	Paper	1741-1741	129 pages	16.5 x 22.0 x 4.0 cm	Mashtotsʻ		
-19,00 BAD	DAOB 00019	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136283	HMML	Paper	1662-1662	197 pages	16.5 x 22.0 x 4.0 cm	Gospels		
+BAD6	DAOB 00006	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136270	HMML	Paper	1900-2000	356 pages	30.0 x 21.5 x 4.5 cm	Parish registry, Armenian Church of Baghdad, 1760-1915		
+BAD7	DAOB 00007	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136271	HMML	Paper	1632-1632	225 pages	14.0 x 19.5 x 6.0 cm	Festal Hymnal		
+BAD8	DAOB 00008	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136272	HMML	Paper	1700-1900	630 pages	15.5 x 20.5 x 5.5 cm	Commentary on the Gospels		
+BAD9	DAOB 00009	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136273	HMML	Paper	1700-1800	203 pages	15.5 x 21.3 x 4.0 cm	Lectionary		
+BAD10	DAOB 00010	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136274	HMML	Paper	1700-1900	554 pages	11.5 x 16.5 x 3.4 cm	Gospels		
+BAD11	DAOB 00011	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136275	HMML	Paper	1314-1314	333 pages	10.5 x 13.5 x 8.0 cm	Festal Hymnal		
+BAD12	DAOB 00012	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136276	HMML	Paper	1700-1900	988 pages	17.0 x 21.0 x 4.0 cm	Class and reading notes on various topics		
+BAD13	DAOB 00013	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136277	HMML	Paper	1600-1800			Hawatov khostovanim, ew aylkʻ		
+BAD14	DAOB 00014	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136278	HMML	Paper	1700-1800			Hawatov khostovanim		
+BAD15	DAOB 00015	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136279	HMML	Paper	1700-1900	19 pages		Prayers		
+BAD16	DAOB 00016	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136280	HMML	Paper	1841-1841	582 pages	25.0 x 35.0 x 10.0 cm	Yaysmawurkʻ		
+BAD17	DAOB 00017	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136281	HMML	Paper	1602-1602	587 pages	25.0 x 36.0 x 12.0 cm	Yaysmawurkʻ		
+BAD18	DAOB 00018	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136282	HMML	Paper	1741-1741	129 pages	16.5 x 22.0 x 4.0 cm	Mashtotsʻ		
+BAD19	DAOB 00019	Armenian Church. Diocese of Baghdad	Iraq	Baghdad	https://w3id.org/vhmml/readingRoom/view/136283	HMML	Paper	1662-1662	197 pages	16.5 x 22.0 x 4.0 cm	Gospels		
 	BzAn 00442	Our Lady of Bzummār Convent	Lebanon	Bzummār	https://w3id.org/vhmml/readingRoom/view/500918	HMML	Paper	1677-1677	490 pages	15.5 x 21.0 x 6.2 cm	Homilies		
 	CFMM 01040	Church of the Forty Martyrs	Turkey	Mardin	https://w3id.org/vhmml/readingRoom/view/504178	HMML	Paper	1955-1955	73 pages	10.0 x 15.5 x 0.7 cm	Hymns and prayers		
 	ACC 00023	Armenian Church. Katʻoghikosutʻiwn Hayotsʻ Metsi Tann Kilikioy	Lebanon	Anṭilyās	https://w3id.org/vhmml/readingRoom/view/510466	HMML	Paper	1616-1616	483 pages	15.2 x 21.5 x 9.8 cm	Varkʻ harantsʻ		
