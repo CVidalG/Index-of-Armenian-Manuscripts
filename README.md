@@ -27,6 +27,12 @@ You have identified a typo or a mistake in the index, or want to add a new resou
 |----------------------------|-------------|----------------------|---------------------|------------------|------------------|----------------------|------------|--------------------------|------|------|---------------------------|----------------|
 | Shelf mark with Library ID | Shelf mark  | Original Institution | Institution country | Institution town | Link to resource | Digital Library name | e.g. Paper | Number of pages / folios | Date | Size | Original title in catalog | e.g.incomplete |
 
+## About Illuminations
+
+This index doesn't specifically list illuminated manuscripts. For project related to illuminations, have a look to [Armenian Manuscript Illumination project]( https://armenoids.com).
+
+You can also use this index to detect automatically illumincations in any digitized Armenian manuscripts with the [Object Detection App](https://calfa.fr/object-detection/manuscripts).
+
 ## How to cite
 
 ```latex
