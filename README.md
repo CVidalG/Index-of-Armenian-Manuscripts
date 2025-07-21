@@ -5,11 +5,13 @@ Access to website [https://www.armenian-manuscripts-index.com](https://www.armen
 The Index of Armenian Manuscripts lists Armenian manuscripts digitized and available in full access in digital libraries. It compiles the main metadata available in the catalogs (dimensions, support, title, number of pages, copy date) and offers direct access to the document. Most of the manuscripts are available via IIIF, and are therefore viewable with the Mirador viewer. They can also be directly annotated and transcribed with the [Calfa Vision platform](https://vision.calfa.fr).
 Access to certain resources may require the creation of an account on the digital library.
 
-## Contributors
+## Main Contributors
 
 * Anush Sargsyan
 * Emmanuel Van Elverdinghe
 * Chahan Vidal-Gorène
+
+Thank you to all (anonymous) contributors who also report new resources.
 
 Original list has been established by [Association Internationale des Études Arméniennes](https://sites.uclouvain.be/aiea/wp-content/uploads/2014/03/AIEA_Newsletter_54-compressed.pdf) and by Anush Sargsyan in 2018, and has been expanded by [Calfa](https://calfa.fr) team (2018 -).
 
@@ -29,9 +31,9 @@ You have identified a typo or a mistake in the index, or want to add a new resou
 
 ## About Illuminations
 
-This index doesn't specifically list illuminated manuscripts. For project related to illuminations, have a look to [Armenian Manuscript Illumination project]( https://armenoids.com).
+This index does not specifically list illuminated manuscripts. For projects related to illuminations, see the [Armenian Manuscript Illumination project]( https://armenoids.com).
 
-You can also use this index to detect automatically illumincations in any digitized Armenian manuscripts with the [Object Detection App](https://calfa.fr/object-detection/manuscripts).
+You can also use this index to automatically detect illuminations in any digitized Armenian manuscript using the [Object Detection App](https://calfa.fr/object-detection/manuscripts), thanks to AI.
 
 ## How to cite
 
